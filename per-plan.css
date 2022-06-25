@@ -1,0 +1,25 @@
+.navbar{
+  padding-top:2%;
+  padding-bottom:2%;
+  color: white;
+
+}
+.h1{
+  margin-left: 5%;
+  font-family: 'Montserrat', serif;
+  font-size: 3rem;
+  font-weight: bold;
+}
+.p1{
+  margin-top:2%;
+  font-size: 1.3rem;
+  font-family: 'Merriweather', serif;
+}
+body{
+  overflow-x: hidden;
+  overflow-y: scroll;
+  background-color:#DFD8CA;
+}
+.btn{
+  margin-top:3%;
+}

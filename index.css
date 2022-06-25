@@ -1,0 +1,262 @@
+.img{
+  background-image: url(https://www.aboutmyclinic.com/images/displayimage/a094fead1636b896b975b4d0e9bc7ba7bc8f6694550581406833d.jpeg?type=b&size=1024);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.a1{
+  margin-right: 5%;
+text-decoration: none;
+color: grey;
+}
+.a1:hover{
+  color:black;
+}
+.a2{
+  text-decoration: none;
+  color:#F5EEDC;
+}
+.a2:hover{
+  color: black;
+}
+.p1{
+text-align: left;
+}
+.h1{
+  text-align: right;
+  margin-right: 8%;
+  font-weight:bold;
+  font-size: 3rem;
+  font-family: 'Merriweather', serif;
+
+}
+.h2{
+  font-size: 2.5rem;
+  line-height: 2;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.blood{
+  width: 90%;
+}
+.bl{
+  padding-top:5%;
+  padding-left: 5%;
+  padding-right: 5%;
+  font-size: 1.3rem;
+  line-height: 2;
+}
+.a3{
+  color: grey;
+  text-decoration: none;
+
+}
+.a3:hover{
+  color: black;
+}
+.h3{
+  padding-left: 5%;
+  padding-right:5%;
+  font-size: 2.5rem;
+  line-height: 2;
+}
+.ap{
+  width: 85%;
+}
+.apo{
+  margin-top:5%;
+  font-weight: bold;
+  font-size: 2rem;
+}
+.apos{
+  margin-top:5%;
+  font-size: 1.1rem;
+  padding-left: 5%;
+  padding-right:5%;
+  line-height: 2;
+}
+.bp{
+  width: 90%;
+}
+.bpo{
+  margin-top:5%;
+  font-size: 2rem;
+  font-weight: bold;
+}
+.bpos{
+  margin-top:5%;
+  padding-left: 5%;
+  padding-right: 5%;
+  font-size: 1.1rem;
+  line-height: 2;
+}
+.abp{
+  width: 85%;
+}
+.abpo{
+  margin-top:5%;
+  font-weight: bold;
+}
+.abpos{
+  margin-top:5%;
+  font-size: 1.1rem;
+  line-height: 2;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.op{
+  width: 90%;
+}
+.opo{
+  margin-top:5%;
+  font-weight: bold;
+}
+.opos{
+  margin-top:5%;
+  font-size: 1.1rem;
+  line-height: 2;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.an{
+  width: 71%;
+}
+.ane{
+  margin-top:5%;
+  font-weight: bold;
+}
+.aneg{
+  margin-top:5%;
+  font-size: 1.1rem;
+  line-height: 2;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.bn{
+  width: 97.9%;
+}
+.bne{
+  margin-top:5%;
+  font-weight: bold;
+}
+.bneg{
+  margin-top:5%;
+  font-size: 1.1rem;
+  line-height: 2;
+  padding-left: 5%;
+  padding-right: 5%;
+
+}
+.abn{
+  width: 88%;
+}
+.abne{
+  margin-top:5%;
+  font-weight:bold;
+}
+.abneg{
+  margin-top:5%;
+  font-size: 1.1rem;
+  line-height: 2;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.on{
+  width: 69%;
+}
+.one{
+  margin-top:5%;
+  font-weight: bold;
+}
+.oneg{
+  margin-top:5%;
+  font-size: 1.1rem;
+  line-height: 2;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.don{
+  font-size: 2rem;
+  padding-left: 15%;
+  padding-right: 15%;
+  line-height: 2;
+  font-weight: bold;
+}
+.blood{
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding-left: 5%;
+  padding-right: 5%;
+  margin-top:10%;
+}
+.aaa{
+  width: 70%;
+}
+.aa{
+  width: 45%;
+}
+.aaah{
+  margin-top: 5%;
+  font-weight: bold;
+}
+.a-details{
+  padding-top:5%;
+  padding-left: 5%;
+  padding-right: 5%;
+  font-size: 1.5rem;
+  line-height: 2.4;
+  color: grey;
+}
+.btnn{
+  background-color:transparent;
+  margin-top:5%;
+}
+.savers{
+  font-weight: bold;
+  padding-left:15%;
+  padding-right: 15%;
+  line-height: 2;
+}
+.tutor{
+  width: 90%;
+}
+.tut{
+  padding-top: 3%;
+  font-size: 1.5rem;
+  line-height: 2.3;
+  padding-left: 5%;
+  padding-right: 5%;
+
+}
+.btnnn{
+  background-color: transparent;
+  margin-top:3%;
+}
+body{
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+.bloque{
+  width: 12%;
+  margin-left: 2%;
+}
+table{
+  line-height: 2.1;
+  font-size: 1.2rem;
+  color: grey;
+}
+a{
+  text-decoration: none;
+}
+.a4{
+  color: grey;
+}
+.a4:hover{
+  color:black;
+}
+.icons{
+  width: 3%;
+  margin-left:2%;
+}
+.copy{
+  margin-top:2%;
+}

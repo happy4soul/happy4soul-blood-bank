@@ -1,0 +1,33 @@
+.navbar{
+  padding-top:2%;
+  padding-bottom:2%;
+  text-align: center;
+  color: black;
+}
+a{
+  float: left;
+  margin-left:5%;
+  text-decoration: none;
+  color: grey;
+  font-size: 2rem;
+}
+a:hover{
+  color: black;
+}
+.h1{
+  font-size: 3rem;
+  font-family: 'Montserrat', serif;
+  font-weight: bold;
+}
+.p1{
+  margin-top:5%;
+  font-size: 1.3rem;
+  line-height: 2.3;
+  padding-left:5%;
+  padding-right: 5%;
+font-family: 'Merriweather', serif;
+}
+body{
+  background-color: #1A132F;
+  color: white;
+}

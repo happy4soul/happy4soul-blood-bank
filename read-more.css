@@ -1,0 +1,30 @@
+.navbar{
+  margin-top:2%;
+}
+a{
+   margin-left: 5%;
+   text-decoration: none;
+   color: white;
+   font-size: 2rem;
+}
+a:hover{
+  color: grey;
+}
+.h1{
+  font-size: 3rem;
+  font-family: 'Montserrat', serif;
+  font-weight: bold;
+}
+.p1{
+  margin-top:5%;
+  font-size: 1.4rem;
+  line-height: 2.3;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom:5%;
+  font-family: 'Merriweather', serif;
+}
+body{
+  background-color: #191919;
+  color: white;
+}

@@ -1,0 +1,48 @@
+.navbar{
+  padding-top:2%;
+  padding-bottom:2%;
+  text-align: center;
+  color: white;
+}
+.a1{
+  float: left;
+  margin-left: 5%;
+  text-align: center;
+  color: grey;
+  text-decoration: none;
+  font-size: 2rem;
+}
+.a1:hover{
+color: white;
+}
+.h1{
+  font-size: 3rem;
+  font-family: 'Montserrat', serif;
+  font-weight: bold;
+}
+.p1{
+  margin-top:7%;
+  padding-left: 10%;
+  padding-right: 10%;
+  font-family:'Merriweather', serif;
+  font-size: 2rem;
+  line-height: 2.3;
+}
+.h2{
+  margin-top:1%;
+  font-family: 'Montserrat', serif;
+  font-weight: bold;
+}
+table{
+  margin-top:5%;
+  font-size: 1.5rem;
+  line-height: 2.5;
+}
+.card-body{
+  padding-bottom:5%;
+}
+body{
+  overflow-x: hidden;
+  overflow-y: scroll;
+  background-color: #F7CCAC;
+}

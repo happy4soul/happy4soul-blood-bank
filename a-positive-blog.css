@@ -1,0 +1,40 @@
+.navbar{
+  color: white;
+  text-align: center;
+}
+.a1{
+  float: left;
+  margin-left: 5%;
+  font-size: 2rem;
+  text-decoration:none;
+  color: grey;
+}
+.a1:hover{
+  color: white;
+}
+.h1{
+  font-size: 3rem;
+  margin-right: 20%;
+  font-family: 'Montserrat', serif;
+  font-weight: bold;
+  display: inline;
+margin-left:5%;
+}
+.p1{
+  font-size: 1.4rem;
+  line-height: 2.2;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom:5%;
+  font-family: 'Merriweather', serif;
+}
+ol{
+  line-height: 3;
+  font-size: 1.3rem;
+  padding-bottom:5%;
+  font-family:'Merriweather', serif;
+
+}
+body{
+  background-color:#F68989;
+}

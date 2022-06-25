@@ -1,0 +1,30 @@
+.navbar{
+  padding-top:2%;
+  padding-bottom:2%;
+  text-align: center;
+  color: white;
+}
+a{
+  float: left;
+  margin-left: 5%;
+  font-size: 2rem;
+  text-decoration: none;
+  color: grey;
+}
+a:hover{
+  color: white;
+}
+.h1{
+  font-family: 'Montserrat', serif;
+  font-size: 3rem;
+  font-weight: bold;
+}
+.p1{
+  margin-top:5%;
+  font-size: 1.7rem;
+  line-height: 2.3;
+  padding-left:15%;
+  padding-right: 15%;
+  padding-bottom:5%;
+
+}
